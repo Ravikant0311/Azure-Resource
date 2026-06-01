@@ -1,0 +1,2 @@
+# Azure-Resource
+Resource codes
